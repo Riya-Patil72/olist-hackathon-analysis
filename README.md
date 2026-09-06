@@ -6,7 +6,7 @@ behavior, and root causes of customer dissatisfaction.
 
 ## Contents
 - `olist_analysis.ipynb` — full analysis notebook
-- `Olist_Analysis_Report.docx` — written report with findings and recommendations
+- `Olist_Analysis_Report.pdf` — written report with findings and recommendations
 
 ## Data source
 Brazilian E-Commerce Public Dataset by Olist (Kaggle), CC BY-NC-SA license.
